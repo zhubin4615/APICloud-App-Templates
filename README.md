@@ -1,5 +1,5 @@
 # APICloud-App-Templates
-收集一些优秀的基于 APICloud 技术开发的应用模板，欢迎更多的开发者共享优质模板。
+APICloud应用案例源码合集，收集一些优秀的基于 APICloud 技术开发的应用模板，欢迎更多的开发者共享优质模板。
 更多APICloud案例可以到[APICloud开发案例展示查看](http://www.apicloud.com/cases)，体验一下使用APICloud开发的App的功能、性能和体验。
 
 1. [每日优鲜应用模版](https://github.com/apicloudcom/APICloud-7Days-Online-Training-Tutorials/tree/master/widget)
