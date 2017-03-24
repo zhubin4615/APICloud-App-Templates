@@ -5,13 +5,12 @@
 
 1. [每日优鲜应用模版](https://github.com/apicloudcom/APICloud-7Days-Online-Training-Tutorials/tree/master/widget)
 
-- 包含APP源码、编译后的安装包、UI架构设计、服务端接口文档等
-- 模仿每日优鲜APP 2.0.2版本开发
-- 主要功能包括：定位、城市切换，商品列表、下拉刷新、上拉加载、商品详情、购物车、个人中心、本地存储、图片缓存、百度地图、推送、版本管理等
+- 模仿每日优鲜APP 2.0.2版本开发，包含APP源码、编译后的安装包、UI架构设计、服务端接口文档等
+- 应用数据存放在APICloud数据云上，在APP中使用标准的api.ajax与服务端数据通信
 - 界面布局采用APICloud 5大UI组件：Widget、Layout、Window、Frame和UIModules
+- 主要功能包括：定位、城市切换，商品列表、下拉刷新、上拉加载、商品详情、购物车、个人中心、本地存储、图片缓存、百度地图、推送、版本管理等
 - 用到的UI模块包括：输入框模块UIInput、多级选择器模块UIActionSelector、轮播图模块UIScrollPicture
 - 其他扩展模块包括：百度地图模块bMap、个推推送模块pushGeTui、版本管理及热更新模块mam、本地数据库模块db
-- 应用数据存放在APICloud数据云上，在APP中使用标准的api.ajax与服务端数据通信
 
 2. [大众点评应用模板](https://github.com/apicloudcom/APICloud-App-Templates/tree/master/dianping/widget)
 3. [今日头条应用模板](https://github.com/apicloudcom/APICloud-App-Templates/tree/master/toutiao/widget)
