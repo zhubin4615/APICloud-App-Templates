@@ -18,8 +18,8 @@
 - 应用数据存放在APICloud数据云上，在APP中使用标准的api.ajax与服务端数据通信
 - 界面布局采用APICloud 5大UI组件：Widget、Layout、Window、Frame和UIModules
 - 主要功能包括：欢迎页、定位、城市列表，商户列表、下拉刷新、上拉加载、商户详情、登陆、注册、个人中心、推送消息列表、二维码扫描、语音识别、图片缓存、百度地图等
-- 用到的UI模块包括：输入框模块UIInput、轮播图模块UIScrollPicture、城市列表模块UICityList
-- 其他扩展模块包括：百度地图模块bMap、二维码扫描模块FNScanner、语音识别模块SpeechRecognizer、本地数据库模块db等
+- 用到的UI模块包括：输入框模块[UIInput](http://docs.apicloud.com/Client-API/UI-Layout/UIInput)、轮播图模块[UIScrollPicture](http://docs.apicloud.com/Client-API/UI-Layout/UIScrollPicture)、城市列表模块[UICityList](http://docs.apicloud.com/Client-API/UI-Layout/UICityList)
+- 其他扩展模块包括：百度地图模块[bMap](http://docs.apicloud.com/Client-API/Open-SDK/bMap)、二维码扫描模块[FNScanner](http://docs.apicloud.com/Client-API/Func-Ext/FNScanner)、语音识别模块[SpeechRecognizer](http://docs.apicloud.com/Client-API/Open-SDK/speechRecognizer)、本地数据库模块[db](http://docs.apicloud.com/Client-API/Func-Ext/db)等
 
 3. [今日头条应用模板](https://github.com/apicloudcom/APICloud-App-Templates/tree/master/toutiao/widget)
 
@@ -27,8 +27,8 @@
 - 应用数据存放在APICloud数据云上，在APP中使用标准的api.ajax与服务端数据通信
 - 界面布局采用APICloud 5大UI组件：Widget、Layout、Window、Frame和UIModules
 - 主要功能包括：广告页、分类导航、新闻列表、评论列表、下拉刷新、上拉加载、新闻详情、视频播放、图片浏览、登陆、注册、个人中心、第三方登陆、推送消息、版本管理等
-- 用到的UI模块包括：输入框模块UIInput、对话框模块dialogBox、底部导航模块navigationBar
-- 其他扩展模块包括：视频播放模块videoPlayer、图文浏览模块photoBrowserTouTiao、QQ登录模块qq、本地数据库模块db等
+- 用到的UI模块包括：输入框模块[UIInput](http://docs.apicloud.com/Client-API/UI-Layout/UIInput)、对话框模块[dialogBox](http://docs.apicloud.com/Client-API/UI-Layout/dialogBox)、底部导航模块[navigationBar](http://docs.apicloud.com/Client-API/Nav-Menu/navigationBar)
+- 其他扩展模块包括：视频播放模块[videoPlayer](http://docs.apicloud.com/Client-API/Func-Ext/videoPlayer)、图文浏览模块[photoBrowserTouTiao](http://docs.apicloud.com/Client-API/UI-Layout/photoBrowserTouTiao)、QQ登录模块[qq](http://docs.apicloud.com/Client-API/Open-SDK/qq)、本地数据库模块[db](http://docs.apicloud.com/Client-API/Func-Ext/db)等
 
 4. [网易新闻模板](https://github.com/beiluo/neteasy-News)
 5. [途牛旅游模板](https://github.com/snowBJ/tuniu)
