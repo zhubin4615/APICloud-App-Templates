@@ -9,8 +9,8 @@
 - 应用数据存放在APICloud数据云上，在APP中使用标准的api.ajax与服务端数据通信
 - 界面布局采用APICloud 5大UI组件：Widget、Layout、Window、Frame和UIModules
 - 主要功能包括：定位、城市切换，商品列表、下拉刷新、上拉加载、商品详情、购物车、登陆、注册、个人中心、本地存储、图片缓存、百度地图、推送、版本管理等
-- 用到的UI模块包括：输入框模块UIInput、多级选择器模块UIActionSelector、轮播图模块UIScrollPicture
-- 其他扩展模块包括：百度地图模块bMap、个推推送模块pushGeTui、版本管理及热更新模块mam、本地数据库模块db
+- 用到的UI模块包括：输入框模块[UIInput](http://docs.apicloud.com/Client-API/UI-Layout/UIInput)、多级选择器模块[UIActionSelector](http://docs.apicloud.com/Client-API/UI-Layout/UIActionSelector)、轮播图模块[UIScrollPicture](http://docs.apicloud.com/Client-API/UI-Layout/UIScrollPicture)
+- 其他扩展模块包括：百度地图模块[bMap](http://docs.apicloud.com/Client-API/Open-SDK/bMap)、个推推送模块[pushGeTui](http://docs.apicloud.com/Client-API/Open-SDK/pushGeTui)、版本管理及热更新模块[mam](http://docs.apicloud.com/Client-API/Cloud-Service/mam)、本地数据库模块[db](http://docs.apicloud.com/Client-API/Func-Ext/db)
 
 2. [大众点评应用模板](https://github.com/apicloudcom/APICloud-App-Templates/tree/master/dianping/widget)
 
