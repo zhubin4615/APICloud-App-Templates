@@ -3,7 +3,7 @@
 
 更多实际应用案例可以到[APICloud开发案例](http://www.apicloud.com/cases)查看，体验一下使用APICloud开发的App的功能、性能和体验。
 
-1. [每日优鲜应用模版](https://github.com/apicloudcom/APICloud-7Days-Online-Training-Tutorials/tree/master/widget)：
+1. [每日优鲜应用模版](https://github.com/apicloudcom/APICloud-7Days-Online-Training-Tutorials/tree/master/missfresh/widget)：
 
 - 模仿每日优鲜APP 2.0.2版本开发，包含APP源码、编译后的Android安装包（iOS的需要自己编译）、UI架构设计、服务端接口文档等
 - 应用数据存放在APICloud数据云上，在APP中使用标准的api.ajax与服务端数据通信
