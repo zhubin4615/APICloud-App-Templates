@@ -38,8 +38,16 @@
 
 7. [返利网应用模版](https://github.com/apicloudcom/Fanli-Source)
 
-8. [网易新闻模板](https://github.com/beiluo/neteasy-News)
-5. [途牛旅游模板](https://github.com/snowBJ/tuniu)
-6. [返利网模板](https://github.com/xiebin2014/fanliwang_template)
-7. [天猫模板](https://github.com/xiebin2014/tianmao_template)
-8. [饿了么模板](https://github.com/shawnsys/eleme)
+8. [搜狐视频应用模版]（https://github.com/apicloudcom/Sohu-Source）
+
+9. [饿了么应用模版]（https://github.com/apicloudcom/Eleme-Source）
+
+10. [网易新闻应用模板](https://github.com/apicloudcom/163news-Source)
+
+11. [玩转晋城应用模板](https://github.com/apicloudcom/Jincheng-Source)
+
+12. [糗事百科应用模板](https://github.com/apicloudcom/Qiushibaike-Source)
+
+13. [网易云音乐应用模版](https://github.com/apicloudcom/163music-Source)
+
+14. [QQ电影票应用模板](https://github.com/apicloudcom/QQFilm-Source)
