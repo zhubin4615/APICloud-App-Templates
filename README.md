@@ -23,7 +23,7 @@
 
 3. [今日头条应用模板](https://github.com/apicloudcom/APICloud-App-Templates/tree/master/toutiao/widget)
 
-- 模仿每日优鲜APP 5.4.5版本开发，包含APP源码和编译后的Android安装包（iOS的需要自己编译）
+- 模仿今日头条APP 5.4.5版本开发，包含APP源码和编译后的Android安装包（iOS的需要自己编译）
 - 应用数据存放在APICloud数据云上，在APP中使用标准的api.ajax与服务端数据通信
 - 界面布局采用APICloud 5大UI组件：Widget、Layout、Window、Frame和UIModules
 - 主要功能包括：广告页、分类导航、新闻列表、评论列表、下拉刷新、上拉加载、新闻详情、视频播放、图片浏览、登陆、注册、个人中心、第三方登陆、推送消息、版本管理等
