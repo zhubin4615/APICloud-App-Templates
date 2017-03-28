@@ -30,7 +30,15 @@
 - 用到的UI模块包括：输入框模块[UIInput](http://docs.apicloud.com/Client-API/UI-Layout/UIInput)、对话框模块[dialogBox](http://docs.apicloud.com/Client-API/UI-Layout/dialogBox)、底部导航模块[navigationBar](http://docs.apicloud.com/Client-API/Nav-Menu/navigationBar)
 - 其他扩展模块包括：视频播放模块[videoPlayer](http://docs.apicloud.com/Client-API/Func-Ext/videoPlayer)、图文浏览模块[photoBrowserTouTiao](http://docs.apicloud.com/Client-API/UI-Layout/photoBrowserTouTiao)、QQ登录模块[qq](http://docs.apicloud.com/Client-API/Open-SDK/qq)、本地数据库模块[db](http://docs.apicloud.com/Client-API/Func-Ext/db)等
 
-4. [网易新闻模板](https://github.com/beiluo/neteasy-News)
+4. [天猫商城应用模版](https://github.com/apicloudcom/Tmall-Source)
+
+5. [脉脉应用模版](https://github.com/apicloudcom/maimai)
+
+6. [途牛应用模版](https://github.com/apicloudcom/Tuniu-Source)
+
+7. [返利网应用模版](https://github.com/apicloudcom/Fanli-Source)
+
+8. [网易新闻模板](https://github.com/beiluo/neteasy-News)
 5. [途牛旅游模板](https://github.com/snowBJ/tuniu)
 6. [返利网模板](https://github.com/xiebin2014/fanliwang_template)
 7. [天猫模板](https://github.com/xiebin2014/tianmao_template)
