@@ -38,9 +38,9 @@
 
 7. [返利网应用模版](https://github.com/apicloudcom/Fanli-Source)
 
-8. [搜狐视频应用模版]（https://github.com/apicloudcom/Sohu-Source）
+8. [搜狐视频应用模版](https://github.com/apicloudcom/Sohu-Source）
 
-9. [饿了么应用模版]（https://github.com/apicloudcom/Eleme-Source）
+9. [饿了么应用模版](https://github.com/apicloudcom/Eleme-Source）
 
 10. [网易新闻应用模板](https://github.com/apicloudcom/163news-Source)
 
