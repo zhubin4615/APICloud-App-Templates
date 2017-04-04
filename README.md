@@ -31,11 +31,22 @@
 - 其他扩展模块包括：视频播放模块[videoPlayer](http://docs.apicloud.com/Client-API/Func-Ext/videoPlayer)、图文浏览模块[photoBrowserTouTiao](http://docs.apicloud.com/Client-API/UI-Layout/photoBrowserTouTiao)、QQ登录模块[qq](http://docs.apicloud.com/Client-API/Open-SDK/qq)、本地数据库模块[db](http://docs.apicloud.com/Client-API/Func-Ext/db)等
 
 4. [天猫商城应用模版](https://github.com/apicloudcom/Tmall-Source)
-
+- 模仿天猫商城APP开发，包含APP源码和编译后的Android安装包（iOS的需要自己编译）
+- 界面布局采用APICloud 5大UI组件：Widget、Layout、Window、Frame和UIModules
+- 主要功能包括：搜索、轮播广告页、分类导航、商品列表、资讯列表、店铺、商品详情、购物车、消息、登陆、注册、个人中心等
+- 用到的功能模块包括：二维码扫描模块[FNScanner](http://docs.apicloud.com/Client-API/Func-Ext/FNScanner)、科大讯飞语音识别的sdk[speechRecognizer](http://docs.apicloud.com/Client-API/Open-SDK/speechRecognizer)
 5. [脉脉应用模版](https://github.com/apicloudcom/maimai)
-
+- 模仿脉脉APP开发，包含APP源码和编译后的Android安装包（iOS的需要自己编译）
+- 界面布局采用APICloud 5大UI组件：Widget、Layout、Window、Frame和UIModules
+- 主要功能包括：搜索、资讯列表、资讯详情、分类导航条、联系人列表、消息中心、个人中心等
+- 用到的UI模块包括：数据列表模块[UIListView](http://docs.apicloud.com/Client-API/UI-Layout/UIListView)、通讯录模块[contact](http://docs.apicloud.com/Client-API/Device-Access/contact)
+- 用到的功能模块包括：微信分享模块[weiXin](http://docs.apicloud.com/Client-API/Open-SDK/weiXin)、新浪微博分享模块[weibo](http://docs.apicloud.com/Client-API/Open-SDK/weibo)科大讯飞语音识别的sdk[speechRecognizer](http://docs.apicloud.com/Client-API/Open-SDK/speechRecognizer)、二维码扫描模块[FNScanner](http://docs.apicloud.com/Client-API/Func-Ext/FNScanner)等
 6. [途牛应用模版](https://github.com/apicloudcom/Tuniu-Source)
-
+- 模仿途牛APP开发，包含APP源码和编译后的Android安装包（iOS的需要自己编译）
+- 应用数据存放在APICloud数据云上，在APP中使用标准的api.ajax与服务端数据通信
+- 界面布局采用APICloud 5大UI组件：Widget、Layout、Window、Frame和UIModules
+- 主要功能包括：轮播广告页、侧边栏、搜索、城市列表、顶部筛选栏、电话拨打、分类导航、旅游产品列表、产品详情、注册等
+- 用到的UI模块包括：轮播图模块[UIScrollPicture](http://docs.apicloud.com/Client-API/UI-Layout/UIScrollPicture)、城市列表模块[UICityList](http://docs.apicloud.com/Client-API/UI-Layout/UICityList)
 7. [返利网应用模版](https://github.com/apicloudcom/Fanli-Source)
 
 8. [搜狐视频应用模版](https://github.com/apicloudcom/Sohu-Source)
