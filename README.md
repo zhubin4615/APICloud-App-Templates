@@ -48,6 +48,11 @@
 - 主要功能包括：轮播广告页、侧边栏、搜索、城市列表、顶部筛选栏、电话拨打、分类导航、旅游产品列表、产品详情、注册等
 - 用到的UI模块包括：轮播图模块[UIScrollPicture](http://docs.apicloud.com/Client-API/UI-Layout/UIScrollPicture)、城市列表模块[UICityList](http://docs.apicloud.com/Client-API/UI-Layout/UICityList)
 7. [返利网应用模版](https://github.com/apicloudcom/Fanli-Source)
+- 模仿返利网APP开发，包含APP源码和编译后的Android安装包（iOS的需要自己编译）
+- 界面布局：采用APICloud 5大UI组件：Widget、Layout、Window、Frame和UIModules
+- 主要功能：瀑布流布局首页、搜索栏、轮播图、webView页面、水平滚动分段标题栏、列表页、“我的”页、“更多”页等各种不同布局页面
+- 程序亮点：采用openGroup方法实现APP引导页，采用flexbox方式实现首页类瀑布流式布局的开发;
+- 开发建议：程序开发时使用Swipe.js框架实现滚动轮播图，如无特殊需求，建议开发者在开发轮播图时，采用[UIScrollPicture](http://docs.apicloud.com/Client-API/UI-Layout/UIScrollPicture) 模块实现轮播图功能轮播图模块来开发实现。
 
 8. [搜狐视频应用模版](https://github.com/apicloudcom/Sohu-Source)
 
