@@ -55,7 +55,11 @@
 - 开发建议：程序开发时使用Swipe.js框架实现滚动轮播图，如无特殊需求，建议开发者在开发轮播图时，采用[UIScrollPicture](http://docs.apicloud.com/Client-API/UI-Layout/UIScrollPicture) 模块实现轮播图功能轮播图模块来开发实现。
 
 8. [搜狐视频应用模版](https://github.com/apicloudcom/Sohu-Source)
-
+- 模仿搜狐视频APP开发，包含APP源码和编译后的Android安装包（iOS的需要自己编译）
+- 界面布局：采用APICloud 5大UI组件：Widget、Layout、Window、Frame和UIModules
+- 主要功能：“首页”“热点”“片库”、视频详情页等不同页面的布局及轮播图、搜索栏、播放器等功能／样式
+- 程序亮点："离线"页面使用api.openFrameGroup方式实现页面的滑动切换，并关联了样式的同步改变；4个主页面采用frame+frameGroup混合组成，开发者可参考程序在frame和frameGroup之间如何进行页面切换处理的;
+- 开发建议：大部分页面仅为静态页面展示，缺少对应的处理逻辑，开发者仅参考下作者的页面布局，页面切换等开发方法即可。
 9. [饿了么应用模版](https://github.com/apicloudcom/Eleme-Source)
 
 10. [网易新闻应用模板](https://github.com/apicloudcom/163news-Source)
