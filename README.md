@@ -35,7 +35,7 @@
 - 界面布局采用APICloud 5大UI组件：Widget、Layout、Window、Frame和UIModules
 - 主要功能包括：搜索、轮播广告页、分类导航、商品列表、资讯列表、店铺、商品详情、购物车、消息、登陆、注册、个人中心等
 - 用到的功能模块包括：二维码扫描模块[FNScanner](http://docs.apicloud.com/Client-API/Func-Ext/FNScanner)、科大讯飞语音识别的sdk[speechRecognizer](http://docs.apicloud.com/Client-API/Open-SDK/speechRecognizer)
-5. [脉脉应用模版](https://github.com/apicloudcom/maimai)
+5. [仿脉脉应用模版](https://github.com/apicloudcom/maimai)
 - 模仿脉脉APP开发，包含APP源码和编译后的Android安装包（iOS的需要自己编译）
 - 界面布局采用APICloud 5大UI组件：Widget、Layout、Window、Frame和UIModules
 - 主要功能包括：搜索、资讯列表、资讯详情、分类导航条、联系人列表、消息中心、个人中心等
