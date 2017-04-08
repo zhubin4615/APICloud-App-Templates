@@ -14,7 +14,7 @@
 
 2. [仿大众点评应用模板](https://github.com/apicloudcom/APICloud-App-Templates/tree/master/dianping/widget)
 
-- 模仿大众点评APP 6.0.1版本开发，包含APP源码和编译后的Android安装包（iOS的需要自己编译）
+- 模仿大众点评APP 6.0.1版本开发的APP源码
 - 应用数据存放在APICloud数据云上，在APP中使用标准的api.ajax与服务端数据通信
 - 界面布局采用APICloud 5大UI组件：Widget、Layout、Window、Frame和UIModules
 - 主要功能包括：欢迎页、定位、城市列表，商户列表、下拉刷新、上拉加载、商户详情、登陆、注册、个人中心、推送消息列表、二维码扫描、语音识别、图片缓存、百度地图等
@@ -23,7 +23,7 @@
 
 3. [仿今日头条应用模板](https://github.com/apicloudcom/APICloud-App-Templates/tree/master/toutiao/widget)
 
-- 模仿今日头条APP 5.4.5版本开发，包含APP源码和编译后的Android安装包（iOS的需要自己编译）
+- 模仿今日头条APP 5.4.5版本开发的APP源码
 - 应用数据存放在APICloud数据云上，在APP中使用标准的api.ajax与服务端数据通信
 - 界面布局采用APICloud 5大UI组件：Widget、Layout、Window、Frame和UIModules
 - 主要功能包括：广告页、分类导航、新闻列表、评论列表、下拉刷新、上拉加载、新闻详情、视频播放、图片浏览、登陆、注册、个人中心、第三方登陆、推送消息、版本管理等
@@ -31,7 +31,7 @@
 - 其他扩展模块包括：视频播放模块[videoPlayer](http://docs.apicloud.com/Client-API/Func-Ext/videoPlayer)、图文浏览模块[photoBrowserTouTiao](http://docs.apicloud.com/Client-API/UI-Layout/photoBrowserTouTiao)、QQ登录模块[qq](http://docs.apicloud.com/Client-API/Open-SDK/qq)、本地数据库模块[db](http://docs.apicloud.com/Client-API/Func-Ext/db)等
 
 4. [仿天猫商城应用模版](https://github.com/apicloudcom/Tmall-Source)
-- 模仿天猫商城APP开发，包含APP源码和编译后的Android安装包（iOS的需要自己编译）
+- 模仿天猫商城APP开发的APP源码
 - 界面布局采用APICloud 5大UI组件：Widget、Layout、Window、Frame和UIModules
 - 主要功能包括：搜索、轮播广告页、分类导航、商品列表、资讯列表、店铺、商品详情、购物车、消息、登陆、注册、个人中心等
 - 用到的功能模块包括：二维码扫描模块[FNScanner](http://docs.apicloud.com/Client-API/Func-Ext/FNScanner)、科大讯飞语音识别的sdk[speechRecognizer](http://docs.apicloud.com/Client-API/Open-SDK/speechRecognizer)
@@ -42,7 +42,7 @@
 - 用到的UI模块包括：数据列表模块[UIListView](http://docs.apicloud.com/Client-API/UI-Layout/UIListView)、通讯录模块[contact](http://docs.apicloud.com/Client-API/Device-Access/contact)
 - 用到的功能模块包括：微信分享模块[weiXin](http://docs.apicloud.com/Client-API/Open-SDK/weiXin)、新浪微博分享模块[weibo](http://docs.apicloud.com/Client-API/Open-SDK/weibo)科大讯飞语音识别的sdk[speechRecognizer](http://docs.apicloud.com/Client-API/Open-SDK/speechRecognizer)、二维码扫描模块[FNScanner](http://docs.apicloud.com/Client-API/Func-Ext/FNScanner)等
 6. [仿途牛应用模版](https://github.com/apicloudcom/Tuniu-Source)
-- 模仿途牛APP开发，包含APP源码和编译后的Android安装包（iOS的需要自己编译）
+- 模仿途牛APP开发的APP源码
 - 应用数据存放在APICloud数据云上，在APP中使用标准的api.ajax与服务端数据通信
 - 界面布局采用APICloud 5大UI组件：Widget、Layout、Window、Frame和UIModules
 - 主要功能包括：轮播广告页、侧边栏、搜索、城市列表、顶部筛选栏、电话拨打、分类导航、旅游产品列表、产品详情、注册等
@@ -55,7 +55,7 @@
 - 开发建议：程序开发时使用Swipe.js框架实现滚动轮播图，如无特殊需求，建议开发者在开发轮播图时，采用[UIScrollPicture](http://docs.apicloud.com/Client-API/UI-Layout/UIScrollPicture) 模块实现轮播图功能轮播图模块来开发实现。
 
 8. [仿搜狐视频应用模版](https://github.com/apicloudcom/Sohu-Source)
-- 模仿搜狐视频APP开发，包含APP源码和编译后的Android安装包（iOS的需要自己编译）
+- 模仿搜狐视频APP开发的APP源码
 - 界面布局：采用APICloud 5大UI组件：Widget、Layout、Window、Frame和UIModules
 - 主要功能：“首页”“热点”“片库”、视频详情页等不同页面的布局及轮播图、搜索栏、播放器等功能／样式
 - 程序亮点："离线"页面使用api.openFrameGroup方式实现页面的滑动切换，并关联了样式的同步改变；4个主页面采用frame+frameGroup混合组成，开发者可参考程序在frame和frameGroup之间如何进行页面切换处理的;
@@ -67,13 +67,18 @@
 - 程序亮点：实现了侧滑式菜单布局；使用了[baiduLocation](http://docs.apicloud.com/Client-API/Open-SDK/baiduLocation)模块实现定位功能；使用swipe.js实现了banner图轮播功能；使用[api.call](http://docs.apicloud.com/Client-API/api#7)实现了拨打电话功能；使用frameGroup实现了分段栏布局的页面切换;
 - 开发建议：开发者在开发轮播图时，采用[UIScrollPicture](http://docs.apicloud.com/Client-API/UI-Layout/UIScrollPicture) 模块实现轮播图功能轮播图模块来开发实现。
 10. [仿网易新闻应用模板](https://github.com/apicloudcom/163news-Source)
-- 模仿网易新闻APP开发，包含APP源码和编译后的Android安装包（iOS的需要自己编译）
+- 模仿网易新闻APP开发的APP源码
 - 界面布局：采用APICloud 5大UI组件：Widget、Layout、Window、Frame和UIModules
 - 主要功能：注册、登录、个人、设置、列表、列表详情页等不同页面；webView页面、页面轮播图、segmenBar多列表菜单等
 - 程序亮点：程序采用APICloud数据云服务[mcm](http://docs.apicloud.com/Client-API/Cloud-Service/mcm)客户端模块进行云数据的远程操作，其中展示了model、user、relation和query等对象的使用方法，值得参考借鉴;程序采用css动画方式实现了segmentBar右侧箭头的点击动画效果，简单实用
 - 开发建议：程序使用[scrollPicture](http://docs.apicloud.com/Client-API/UI-Layout/scrollPicture)模块实现轮播图功能，目前该模块已被升级版[UIScrollPicture](http://docs.apicloud.com/Client-API/UI-Layout/UIScrollPicture) 模块替代。
 11. [仿玩转晋城应用模板](https://github.com/apicloudcom/Jincheng-Source)
-
+- 模仿玩转晋城APP开发的APP源码，及云端数据库结构数据、使用开发说明等
+- 界面布局：采用APICloud 5大UI组件：Widget、Layout、Window、Frame和UIModules
+- 主要功能：注册、登录、收藏、查看图片原图、图片保存、条件筛选、云数据操作、ajax请求、dot模块页面数据加载等；
+- 使用模块：[personalCenter](http://docs.apicloud.com/Client-API/UI-Layout/personalCenter)、[imageBrowser](http://docs.apicloud.com/Client-API/Func-Ext/imageBrowser)、[scanner](http://docs.apicloud.com/Client-API/Func-Ext/scanner)、[speechRecognizer](http://docs.apicloud.com/Client-API/Open-SDK/speechRecognizer)、[weiXin](http://docs.apicloud.com/Client-API/Open-SDK/weiXin)
+- 程序亮点：程序展示了使用ajax远程请求数据、数据处理逻辑、使用dot模版进行页面数据加载等开发技术，使用[imageBrowser](http://docs.apicloud.com/Client-API/Func-Ext/imageBrowser)查看图片、保存图片、使用[weiXin](http://docs.apicloud.com/Client-API/Open-SDK/weiXin)模块实现微信的第三方分享功能、使用[scanner](http://docs.apicloud.com/Client-API/Func-Ext/scanner)实现二维码扫描功能等模块进行混合开发的技巧；源文件中附带程序开发使用说明文档，数据结构文档供开发者开发调用，是初学者不可多得的参考范例；
+- 开发建议：程序使用[scrollPicture](http://docs.apicloud.com/Client-API/UI-Layout/scrollPicture)轮播图模块已被升级版[UIScrollPicture](http://docs.apicloud.com/Client-API/UI-Layout/UIScrollPicture) 模块替代;[imageBrowser](http://docs.apicloud.com/Client-API/Func-Ext/imageBrowser)已被升级版[photoBrowser](http://docs.apicloud.com/Client-API/Func-Ext/photoBrowser)替代;[scanner](http://docs.apicloud.com/Client-API/Func-Ext/scanner)二维码扫描模块已被升级版[FNScanner](http://docs.apicloud.com/Client-API/Func-Ext/FNScannerr)替代；[weiXin](http://docs.apicloud.com/Client-API/Open-SDK/weiXin)此模块已拆分为 wx（分享、登录功能）和 wxPay（支付功能）模块
 12. [仿糗事百科应用模板](https://github.com/apicloudcom/Qiushibaike-Source)
 
 13. [仿网易云音乐应用模版](https://github.com/apicloudcom/163music-Source)
