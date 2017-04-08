@@ -61,7 +61,11 @@
 - 程序亮点："离线"页面使用api.openFrameGroup方式实现页面的滑动切换，并关联了样式的同步改变；4个主页面采用frame+frameGroup混合组成，开发者可参考程序在frame和frameGroup之间如何进行页面切换处理的;
 - 开发建议：大部分页面仅为静态页面展示，缺少对应的处理逻辑，开发者仅参考下作者的页面布局，页面切换等开发方法即可。
 9. [仿饿了么应用模版](https://github.com/apicloudcom/Eleme-Source)
-
+- 模仿饿了么APP开发，包含APP源码和编译后的Android安装包（iOS的需要自己编译）
+- 界面布局：采用APICloud 5大UI组件：Widget、Layout、Window、Frame和UIModules
+- 主要功能：侧滑布局菜单，个人中心常用界面的UI布局实现，搜索栏、外卖店列表、banner轮播、webView页面、筛选栏下拉式菜单布局、segmentBar页面切换
+- 程序亮点：实现了侧滑式菜单布局；使用了[baiduLocation](http://docs.apicloud.com/Client-API/Open-SDK/baiduLocation)模块实现定位功能；使用swipe.js实现了banner图轮播功能；使用[api.call](http://docs.apicloud.com/Client-API/api#7)实现了拨打电话功能；使用frameGroup实现了分段栏布局的页面切换;
+- 开发建议：开发者在开发轮播图时，采用[UIScrollPicture](http://docs.apicloud.com/Client-API/UI-Layout/UIScrollPicture) 模块实现轮播图功能轮播图模块来开发实现。
 10. [仿网易新闻应用模板](https://github.com/apicloudcom/163news-Source)
 
 11. [仿玩转晋城应用模板](https://github.com/apicloudcom/Jincheng-Source)
