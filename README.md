@@ -80,7 +80,10 @@
 - 程序亮点：程序展示了使用ajax远程请求数据、数据处理逻辑、使用dot模版进行页面数据加载等开发技术，使用[imageBrowser](http://docs.apicloud.com/Client-API/Func-Ext/imageBrowser)查看图片、保存图片、使用[weiXin](http://docs.apicloud.com/Client-API/Open-SDK/weiXin)模块实现微信的第三方分享功能、使用[scanner](http://docs.apicloud.com/Client-API/Func-Ext/scanner)实现二维码扫描功能等模块进行混合开发的技巧；源文件中附带程序开发使用说明文档，数据结构文档供开发者开发调用，是初学者不可多得的参考范例；
 - 开发建议：程序使用[scrollPicture](http://docs.apicloud.com/Client-API/UI-Layout/scrollPicture)轮播图模块已被升级版[UIScrollPicture](http://docs.apicloud.com/Client-API/UI-Layout/UIScrollPicture) 模块替代;[imageBrowser](http://docs.apicloud.com/Client-API/Func-Ext/imageBrowser)已被升级版[photoBrowser](http://docs.apicloud.com/Client-API/Func-Ext/photoBrowser)替代;[scanner](http://docs.apicloud.com/Client-API/Func-Ext/scanner)二维码扫描模块已被升级版[FNScanner](http://docs.apicloud.com/Client-API/Func-Ext/FNScannerr)替代；[weiXin](http://docs.apicloud.com/Client-API/Open-SDK/weiXin)此模块已拆分为 wx（分享、登录功能）和 wxPay（支付功能）模块
 12. [仿糗事百科应用模板](https://github.com/apicloudcom/Qiushibaike-Source)
-
+- 模仿糗事百科APP开发的APP源码
+- 界面布局：采用APICloud 5大UI组件：Widget、Layout、Window、Frame和UIModules
+- 主要功能：首页、个人中心、列表、列表详情页等不同页面；segmenBar多列表菜单选择切换等
+- 程序亮点：主题切换、右侧弹出层、segmenBar多列表菜单页面间的切换处理
 13. [仿网易云音乐应用模版](https://github.com/apicloudcom/163music-Source)
 
 14. [仿QQ电影票应用模板](https://github.com/apicloudcom/QQFilm-Source)
