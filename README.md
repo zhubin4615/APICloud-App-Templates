@@ -85,5 +85,8 @@
 - 主要功能：首页、个人中心、列表、列表详情页等不同页面；segmenBar多列表菜单选择切换等
 - 程序亮点：主题切换、右侧弹出层、segmenBar多列表菜单页面间的切换处理
 13. [仿网易云音乐应用模版](https://github.com/apicloudcom/163music-Source)
-
+- 模仿网易云音乐APP开发的APP源码
+- 界面布局：采用APICloud 5大UI组件：Widget、Layout、Window、Frame和UIModules
+- 主要功能：局部横向滑动、segmenBar多列表菜单、tabBar页面切换、多种布局列表页面、搜索栏、个人中心、歌曲播放页等
+- 程序亮点：程序包含多种样式布局的页面，及页面间的相互切换可供开发者参考；在歌曲播放页使用css动画实现歌曲播放效果，这种通过CSS动画方式实现APP开发的某些功能，值得借鉴。
 14. [仿QQ电影票应用模板](https://github.com/apicloudcom/QQFilm-Source)
