@@ -67,7 +67,11 @@
 - 程序亮点：实现了侧滑式菜单布局；使用了[baiduLocation](http://docs.apicloud.com/Client-API/Open-SDK/baiduLocation)模块实现定位功能；使用swipe.js实现了banner图轮播功能；使用[api.call](http://docs.apicloud.com/Client-API/api#7)实现了拨打电话功能；使用frameGroup实现了分段栏布局的页面切换;
 - 开发建议：开发者在开发轮播图时，采用[UIScrollPicture](http://docs.apicloud.com/Client-API/UI-Layout/UIScrollPicture) 模块实现轮播图功能轮播图模块来开发实现。
 10. [仿网易新闻应用模板](https://github.com/apicloudcom/163news-Source)
-
+- 模仿网易新闻APP开发，包含APP源码和编译后的Android安装包（iOS的需要自己编译）
+- 界面布局：采用APICloud 5大UI组件：Widget、Layout、Window、Frame和UIModules
+- 主要功能：注册、登录、个人、设置、列表、列表详情页等不同页面；webView页面、页面轮播图、segmenBar多列表菜单等
+- 程序亮点：程序采用APICloud数据云服务[mcm](http://docs.apicloud.com/Client-API/Cloud-Service/mcm)客户端模块进行云数据的远程操作，其中展示了model、user、relation和query等对象的使用方法，值得参考借鉴;程序采用css动画方式实现了segmentBar右侧箭头的点击动画效果，简单实用
+- 开发建议：程序使用[scrollPicture](http://docs.apicloud.com/Client-API/UI-Layout/scrollPicture)模块实现轮播图功能，目前该模块已被升级版[UIScrollPicture](http://docs.apicloud.com/Client-API/UI-Layout/UIScrollPicture) 模块替代。
 11. [仿玩转晋城应用模板](https://github.com/apicloudcom/Jincheng-Source)
 
 12. [仿糗事百科应用模板](https://github.com/apicloudcom/Qiushibaike-Source)
