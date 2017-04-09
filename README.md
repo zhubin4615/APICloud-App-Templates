@@ -90,3 +90,9 @@
 - 主要功能：局部横向滑动、segmenBar多列表菜单、tabBar页面切换、多种布局列表页面、搜索栏、个人中心、歌曲播放页等
 - 程序亮点：程序包含多种样式布局的页面，及页面间的相互切换可供开发者参考；在歌曲播放页使用css动画实现歌曲播放效果，这种通过CSS动画方式实现APP开发的某些功能，值得借鉴。
 14. [仿QQ电影票应用模板](https://github.com/apicloudcom/QQFilm-Source)
+- 模仿QQ电影票APP开发的APP源码
+- 界面布局：采用APICloud 5大UI组件：Widget、Layout、Window、Frame和UIModules
+- 主要功能：局部横向滑动、segmenBar多列表菜单、tabBar页面切换、多种布局列表页面、搜索栏、个人中心、歌曲播放页等
+- 使用模块：[cityList](http://docs.apicloud.com/Client-API/UI-Layout/cityList)、[baiduMap](http://docs.apicloud.com/Client-API/Open-SDK/baiduMap)
+- 程序亮点：使用frameGroup制作引导页，其他一些制作功能的小技巧，比如：城市选择、布局展示切换、影片切换效果，等本项目值得参考的内容就是这些分离的功能使用。
+- 开发建议：[cityList](http://docs.apicloud.com/Client-API/UI-Layout/cityList)已被升级版[UICityList](http://docs.apicloud.com/Client-API/UI-Layout/UICityList)所替代；[baiduMap](http://docs.apicloud.com/Client-API/Open-SDK/baiduMap)已被升级版[bMap]所替代；
