@@ -96,3 +96,5 @@
 - 使用模块：[cityList](http://docs.apicloud.com/Client-API/UI-Layout/cityList)、[baiduMap](http://docs.apicloud.com/Client-API/Open-SDK/baiduMap)
 - 程序亮点：使用frameGroup制作引导页，其他一些制作功能的小技巧，比如：城市选择、布局展示切换、影片切换效果，等本项目值得参考的内容就是这些分离的功能使用。
 - 开发建议：[cityList](http://docs.apicloud.com/Client-API/UI-Layout/cityList)已被升级版[UICityList](http://docs.apicloud.com/Client-API/UI-Layout/UICityList)所替代；[baiduMap](http://docs.apicloud.com/Client-API/Open-SDK/baiduMap)已被升级版[bMap]所替代；
+15. [仿蜻蜓FM应用模板](https://github.com/jinlong/qingtingFM)
+- 模仿蜻蜓FM开发的APP源码
