@@ -98,3 +98,5 @@
 - 开发建议：[cityList](http://docs.apicloud.com/Client-API/UI-Layout/cityList)已被升级版[UICityList](http://docs.apicloud.com/Client-API/UI-Layout/UICityList)所替代；[baiduMap](http://docs.apicloud.com/Client-API/Open-SDK/baiduMap)已被升级版[bMap]所替代；
 15. [仿蜻蜓FM应用模板](https://github.com/jinlong/qingtingFM)
 - 模仿蜻蜓FM开发的APP源码
+16. [滴滴拉屎APP源码]（https://github.com/jinlong/didiShit）
+
